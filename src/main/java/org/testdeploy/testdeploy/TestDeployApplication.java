@@ -9,7 +9,6 @@ public class TestDeployApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(TestDeployApplication.class, args);
-        System.out.println("");
 
     }
 
